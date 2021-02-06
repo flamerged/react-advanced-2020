@@ -1,4 +1,21 @@
-## Corresponding Projects
+## Topics of the course
+
+1. useState
+2. useEffect
+3. Conditional rendering
+4. Forms in React
+5. useRef
+6. useReducer
+7. prop drilling
+8. useContext
+9. Custom Hooks
+10. Prop Types
+11. React Router
+12. Memo, useMemo and useCallback
+
+## Mini-projects to practice react
+
+Can be found in separate repo. [Here](https://github.com/flamerged/react-projects)
 
 #### useState
 
